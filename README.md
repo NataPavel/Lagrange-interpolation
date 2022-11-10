@@ -9,3 +9,5 @@ using global and piecewise interpolation on the given nodes. By the formulas
 of numerical differentiation approximately
 find the first and second derivatives of the function f(x) 
 <br /><br />
+f(x):<br/>
+![alt text](https://github.com/NataPavel/Lagrange-interpolation/blob/main/linear-interpolation.png?raw=true)
