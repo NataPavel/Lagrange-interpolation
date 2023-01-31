@@ -1,4 +1,4 @@
-# Laboratory work 1. Lagrange-interpolation. 
+# Lagrange-interpolation. 
  
 INTERPOLATION OF DATA. INTERPOLATION LAGRANGE POLYNOMIAL. NUMERICAL DIFFERENTIATION.<br /><br />
 Purpose: application of interpolation algorithms to construct a polynomial approximation
